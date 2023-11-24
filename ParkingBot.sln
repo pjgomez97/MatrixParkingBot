@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ParkingBot", "ParkingBot\ParkingBot.fsproj", "{52D32EED-5B09-4CE2-867D-E3F8CB730EED}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Logging", "Logging\Logging.fsproj", "{F73AA86B-B685-4FE2-A837-F232016E46D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D32EED-5B09-4CE2-867D-E3F8CB730EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D32EED-5B09-4CE2-867D-E3F8CB730EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D32EED-5B09-4CE2-867D-E3F8CB730EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D32EED-5B09-4CE2-867D-E3F8CB730EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73AA86B-B685-4FE2-A837-F232016E46D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73AA86B-B685-4FE2-A837-F232016E46D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73AA86B-B685-4FE2-A837-F232016E46D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73AA86B-B685-4FE2-A837-F232016E46D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
